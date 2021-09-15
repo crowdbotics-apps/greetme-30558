@@ -1,0 +1,60 @@
+
+import React, { Component } from 'react'
+import { AppRegistry, Navigator, StyleSheet, Text, View, TouchableOpacity, Alert, Button } from 'react-native'
+class App extends Component {
+  state = {
+      account_name: ''
+  };
+  onChangeName = (name) => {
+     this.setState({account_name: name})
+  };
+  
+  render() {
+      const { account_name } = this.state;
+
+import React, { Component } from 'react'
+import { AppRegistry, Navigator, StyleSheet, Text, View, TouchableOpacity, Alert, Button } from 'react-native'
+class App extends Component {
+  state = {
+      account_name: ''
+  };
+  onChangeName = (name) => {
+     this.setState({account_name: name})  };
+  
+  render() {
+      const { account_name } = this.state;
+
+import React, { Component } from 'react'
+import { AppRegistry, Navigator, StyleSheet, Text, View, TouchableOpacity, Alert, Button } from 'react-native'
+class App extends Component {
+  state = {
+      account_name: ''
+  };
+  onChangeName = (name) => {
+     this.setState({account_name: name})  };
+  
+  render() {
+      const { account_name } = this.state;
+
+import React, { Component } from 'react'
+import { AppRegistry, Navigator, StyleSheet, Text, View, TouchableOpacity, Alert, Button } from 'react-native'
+class App extends Component {
+  state = {
+      account_name: ''
+  };
+  onChangeName = (name) => {
+     this.setState({account_name: name})  };
+  
+  render() {
+      const { account_name } = this.state;
+
+import React, { Component } from 'react'
+import { AppRegistry, Navigator, StyleSheet, Text, View, TouchableOpacity, Alert, Button } from 'react-native'
+class App extends Component {
+  state = {
+      account_name: ''
+  };
+  onChangeName = (name) => {
+     this.setState({account_name: name})  };
+  
+ 
